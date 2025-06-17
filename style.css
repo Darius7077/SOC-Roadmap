@@ -1,0 +1,109 @@
+* {
+  margin: 15px;
+  
+}
+html {
+  background-color: #f0f8ff;
+  font-family: Roboto,sans-serif;
+  font-weight: 500;
+}
+
+header {
+  background-color:#7499b9;
+  font-size: 1.5rem;
+  margin: ;
+  text-align: center;
+  width: 100%;
+}
+
+nav {
+  display:inline-block;
+  text-align: center;
+  line-height: 2;
+}
+
+a {
+  font-size: 1rem;
+  color:black;
+  margin: 15px;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #08dede;
+}
+
+
+footer {
+   background-color:#7499b9;
+}
+
+img {
+  display:;
+  text-align: center;
+  margin: 15px 100px;
+}
+
+h2, h3.title{
+  text-align: center;
+  list-style: none;
+}
+
+div #begin {
+  margin: 0px 40px;
+  padding: 0px 50px;
+  margin: 20px 0px;
+}
+
+li {
+  margin: .5rem;
+  padding:5px;
+  line-height:150%;
+}
+
+p {
+  font-family: Roboto, Sans-serif;
+  margin: 20px;
+  text-align: justify;
+  line-height:150%;
+}
+
+span {
+  color:#08dede;
+}
+
+.container {
+  box-sizing: border-box;
+}
+
+.box {
+  border: 5px solid;
+  border-width:;
+  box-shadow: 10px 10px 10px #08dede;
+  box-sizing: border-box;
+  display: inline-block;
+  margin: 20px 0px;
+  padding: 25px;
+  text-align: left;
+  width: 100%;
+}
+
+.cloud-1 {
+  padding: 24px;
+  width: 10%;
+}
+
+.cloud-2 {
+  padding: 24px;
+  width: 50%;
+}
+
+.cloud-3 {
+  padding: 42px;
+  width: 25%;
+}
+
+.cloud-4 {
+  padding: 82px;
+  width: 70%;
+}
